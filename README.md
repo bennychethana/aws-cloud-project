@@ -5,9 +5,9 @@
 This project consists of three repositories that together offer a full-stack solution involving a web application, infrastructure setup, and serverless functions.
 
 ## 1. **WebApp Application**
-This repository contains the source code for a cloud-based backend web application built with **Java** and **Spring Boot**, using **PostgreSQL** as the database. The application provides APIs to perform various operations and is designed for the **CSYE 6225: Network Structures and Cloud Computing** course.
+This repository contains the source code for a cloud-based backend web application built with **Python** and **Django**, using **PostgreSQL** as the database. The application provides APIs to perform various operations and is designed for the **CSYE 6225: Network Structures and Cloud Computing** course.
 
-- **Technologies**: Java (JDK 17), Spring Boot (v3.3.3), PostgreSQL (v16), Gradle.
+- **Technologies**: Python (3.11), Django (4.2 LTS), PostgreSQL (15), pip
 - **Repository**: [WebApp](https://github.com/bennychethana/webapp)
 
 ---
